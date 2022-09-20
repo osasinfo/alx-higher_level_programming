@@ -20,8 +20,8 @@ int check_cycle(listint_t *list)
 
 		if (speed == slow)
 		{
-			tortoise = list;
-			while (tortoise != hare)
+			slow = list;
+			while (slow != speed)
 			{
 				slow = slow->next;
 				speed = speed->next;
