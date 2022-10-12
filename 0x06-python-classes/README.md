@@ -1,6 +1,6 @@
-General
-Why Python programming is awesome
-What is OOP
+# General
+* Why Python programming is awesome
+* What is OOP
 “first-class everything
 What is a class
 What is an object and an instance
@@ -19,7 +19,8 @@ How to bind attributes to object and classes
 What is the __dict__ of a class and/or instance of a class and what does it contain
 How does Python find the attributes of an object or class
 How to use the getattr function
-Copyright - Plagiarism
+
+# Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
